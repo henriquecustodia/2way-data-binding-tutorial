@@ -13,6 +13,7 @@
 
     defineWatch(model);
 
+    
     inputs.forEach(function (input) {
         var modelProp = input.getAttribute('my-input');
 
